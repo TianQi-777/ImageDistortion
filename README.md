@@ -22,4 +22,14 @@ make -j2
 ```
 
 ## Result
+**Distort**  
+<div align=center>  
+  
+![](https://github.com/TianQi-777/ImageDistortion/blob/master/Images/distort_.png)
+</div>
 
+**Undistort**  
+<div align=center>  
+  
+![](https://github.com/TianQi-777/ImageDistortion/blob/master/Images/undistorted.png)
+</div>
