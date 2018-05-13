@@ -13,10 +13,13 @@ Use [OpenCV](http://opencv.org) to process images.
 
 ## Build and Run
 ```
-cd XX/XX(include Pangolin_test.cpp ,CameraTrajectory.txt ,associate.txt and CMakeLists.txt)  
+cd XX/XX(include undistort_Image.cpp ,test.png and CMakeLists.txt)  
 mkdir build  
 cd build  
 cmake ..  
 make -j2  
-./Pangolin_test
+./undistort_image
 ```
+
+## Result
+
